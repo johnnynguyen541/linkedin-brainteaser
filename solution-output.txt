@@ -1,0 +1,103 @@
+>>> 
+
+Guest ran 173 lines of Python 3 (finished in 1.52s):
+
+
+NETWORK #1
+
+[
+  "Head - Jen",
+  [
+    "Jen_1",
+    "Jen_2",
+    [
+      "Head - Jen_3",
+      [
+        "Jen_3_1"
+      ]
+    ]
+  ]
+]
+.
+NETWORK #2
+ 
+[
+  "Head - Jen",
+  [
+    [
+      "Head - Jen_1",
+      [
+        "Jen_1_1",
+        [
+          "Head - Jen_1_2",
+          [
+            "Jen_1_2_1"
+          ]
+        ]
+      ]
+    ]
+  ]
+]
+.
+NETWORK #3
+
+[
+  "Head - Jen",
+  [
+    "Jen_1",
+    "Jen_2",
+    "Jen_3",
+    "Jen_4"
+  ]
+]
+.
+NETWORK #4
+
+"Jen"
+.
+NETWORK #5
+
+[
+  "Head - Jen",
+  [
+    [
+      "Head - Jen_1",
+      [
+        "Jen_1_1"
+      ]
+    ],
+    [
+      "Head - Jen_2",
+      [
+        "Jen_2_1"
+      ]
+    ]
+  ]
+]
+.
+NETWORK #6
+
+[
+  "Head - Jen",
+  [
+    [
+      "Head - Jen_1",
+      [
+        "Jen_1_1",
+        "Jen_1_2"
+      ]
+    ],
+    [
+      "Head - Jen_2",
+      [
+        "Jen_2_1",
+        "Jen_2_2"
+      ]
+    ]
+  ]
+]
+.
+----------------------------------------------------------------------
+Ran 6 tests in 0.001s
+
+OK
